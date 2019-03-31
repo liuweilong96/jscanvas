@@ -44,7 +44,7 @@ window.addEventListener("touchmove", function (e){
     x = e.offsetX;
     y = e.offsetY;
     pen(x,y,radius,color)
-    alert("HI");
+//     alert("HI");
 })
 
 window.addEventListener("orientationchange", function (e) {
